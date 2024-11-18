@@ -1,2 +1,2 @@
 # tictac
-spring boot project.
+spring boot project to perform CRUD with MongoDB
